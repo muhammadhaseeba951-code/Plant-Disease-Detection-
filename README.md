@@ -77,6 +77,9 @@ Different training parameters such as epochs were selected based on available co
 * Evaluation results
 * Prediction visualizations
 
+Colab Notebook Link:  
+https://drive.google.com/file/d/1yPFeGCFjUHypmjTO-p7CreVJbNiAQ50G/view?usp=sharing
+
 ---
 
 ## Important Notes
