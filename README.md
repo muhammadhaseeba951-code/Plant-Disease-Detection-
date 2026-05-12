@@ -89,7 +89,6 @@ https://drive.google.com/file/d/1yPFeGCFjUHypmjTO-p7CreVJbNiAQ50G/view?usp=shari
 * Since GitHub does not allow large dataset uploads, the dataset is sourced externally through Google Drive.
 * After opening the notebook, you may select "Run All" to execute the complete workflow.
 * Once execution is completed, the trained model will be generated/downloaded in the runtime files.
-* The project may take approximately 1.5 hours to fully run from start till saving the trained model.
 * If accessing through the Colab notebook link, installing the Google Colab app is recommended.
 
 ---
